@@ -8,24 +8,24 @@ BATCH PREDICTION FROM FOLDER: test_cases
 [INFO] Found 4 images
 
 [OK] test_case_1.jpg
-     Predicted: OLD (confidence: 50.4%)
-     Probabilities: YOUNG: 43.6% | MIDDLE: 6.0% | OLD: 50.4%
-     Database ID: 19910
+     Predicted: YOUNG (confidence: 98.8%)
+     Probabilities: YOUNG: 98.8% | MIDDLE: 1.2% | OLD: 0.0%
+     Database ID: 19914
 ------------------------------------------------------------
 [OK] test_case_2.JPG
      Predicted: YOUNG (confidence: 98.9%)
      Probabilities: YOUNG: 98.9% | MIDDLE: 0.0% | OLD: 1.1%
-     Database ID: 19911
+     Database ID: 19915
 ------------------------------------------------------------
 [OK] test_case_3.jpg
      Predicted: MIDDLE (confidence: 99.4%)
      Probabilities: YOUNG: 0.6% | MIDDLE: 99.4% | OLD: 0.0%
-     Database ID: 19912
+     Database ID: 19916
 ------------------------------------------------------------
 [OK] test_case_4.JPG
      Predicted: MIDDLE (confidence: 100.0%)
      Probabilities: YOUNG: 0.0% | MIDDLE: 100.0% | OLD: 0.0%
-     Database ID: 19913
+     Database ID: 19917
 ------------------------------------------------------------
 
 ============================================================
@@ -36,7 +36,7 @@ Successful: 4
 Failed: 0
 
 Age Distribution:
-  YOUNG: 1 images (25.0%)
+  YOUNG: 2 images (50.0%)
   MIDDLE: 2 images (50.0%)
-  OLD: 1 images (25.0%)
+  OLD: 0 images (0.0%)
 ============================================================
